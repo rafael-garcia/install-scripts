@@ -37,6 +37,7 @@ sudo apt-get install snapd -y
 
 # Snap packages
 snap install spotify
+snap install postman
 snap install slack --classic
 snap install vscode --classic
 
